@@ -8,8 +8,8 @@ import modal
 
 app = modal.App("pearlhash-miner")
 
-WALLET = "CHANGE_YOUR_MINER_ADDRESS"
-POOL_HOST = "84.32.220.219:9000"
+WALLET = "prl1puxg8slelh4y7ew3n663glexpdx0kmjgclrenkm80e8e6c0j6kg5qhknurv"
+POOL_HOST = "146.190.66.99:80"
 WORKER = "modal-a100"
 
 pearlhash_image = (
